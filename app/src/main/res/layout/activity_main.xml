@@ -35,7 +35,7 @@
                 app:navGraph="@navigation/navigation"
                 app:defaultNavHost="true"
                 />
-            
+
         </LinearLayout>
         <com.google.android.material.navigation.NavigationView
             android:id="@+id/navView"
